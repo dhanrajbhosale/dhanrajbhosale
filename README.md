@@ -7,7 +7,7 @@
 
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning Datastructures and Algorithms
-- 📫 How to reach me LinkedIn: https://www.linkedin.com/in/dhanrajbhosale/ Email: dbhosal1@asu.edu
+- 📫 How to reach me LinkedIn: linkedin.com/in/dhanrajbhosale/ Email: dbhosal1@asu.edu
 
   ![](https://komarev.com/ghpvc/?username=dhanrajbhosale&color=brightgreen&style=flat-square)
 
