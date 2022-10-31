@@ -6,6 +6,7 @@
 <br/>
 
 - 👀 I’m interested in Software Development 
+- Currently working as a 'Graduate Research Assistant' @ ASU
 - 🌱 I’m currently learning Datastructures and Algorithms
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/dhanrajbhosale/ Email: dbhosal1@asu.edu
 
