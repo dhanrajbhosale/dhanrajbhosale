@@ -9,6 +9,7 @@
 - Currently working as a 'Graduate Research Assistant' @ ASU
 - 🌱 I’m currently learning Datastructures and Algorithms
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/dhanrajbhosale/ Email: dbhosal1@asu.edu
+- Website: [dhanrajbhosale.github.io/](https://dhanrajbhosale.github.io/)
 
   ![](https://komarev.com/ghpvc/?username=dhanrajbhosale&color=brightgreen&style=flat-square)
 
