@@ -5,8 +5,9 @@
 </a>
 <br/>
 
-- 👀 I’m interested in Software Development 
-- Currently working as a 'Graduate Research Assistant' @ ASU
+- 👀 I’m interested in Software Development
+- Currently working as a 'Software Engineer Intern' @ [American Family Insurance](https://www.amfam.com/)
+- Currently working as a 'Graduate Research Assistant' @ [ASU](https://www.asu.edu/)
 - 🌱 I’m currently learning Datastructures and Algorithms
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/dhanrajbhosale/ Email: dbhosal1@asu.edu
 - Website: [dhanrajbhosale.github.io/](https://dhanrajbhosale.github.io/)
